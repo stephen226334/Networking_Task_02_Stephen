@@ -1,6 +1,4 @@
-** Networking Task 02: Network Devices & IP Addressing **
-
-Student Information
+Networking Task 02: Network Devices & IP Addressing
 
 Name:Stephen J
 Date:June 2026
@@ -186,27 +184,29 @@ ipconfig /all
 nslookup google.com
 ping google.com
 ```
+
 Screenshots
 
-## IP Configuration
+IP Configuration
 
 ![IP Configuration](Screenshots/ipconfig.png)
 
-
-## DNS Lookup
+DNS Lookup
 
 ![DNS Lookup](Screenshots/nslookup.png)
 
-## Ping Test
+Ping Test
 
 ![Ping Test](Screenshots/ping.png)
 
+---
 
 Questions
 
 What IP address did DNS return for Google?
 
-The DNS server resolved the domain name google.com to the IPv6 address 2404:6800:4007:833::200e. This address was returned by the DNS server and used by my device to communicate with Google's server.
+The DNS server resolved the domain name "google.com" to the IPv6 address "2404:6800:4007:833::200e". This address was returned by the DNS server and used by my device to communicate with Google's server.
+
 Was the ping successful?
 
 Yes, the ping was successful.
