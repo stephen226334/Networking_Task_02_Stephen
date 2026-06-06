@@ -206,8 +206,7 @@ Questions
 
 What IP address did DNS return for Google?
 
-(Replace with your nslookup result)
-
+The DNS server resolved the domain name google.com to the IPv6 address 2404:6800:4007:833::200e. This address was returned by the DNS server and used by my device to communicate with Google's server.
 Was the ping successful?
 
 Yes, the ping was successful.
